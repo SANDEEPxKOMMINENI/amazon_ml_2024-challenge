@@ -212,4 +212,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README outlines the project setup and the key sections for executing your solution, including data preprocessing, model training, evaluation, and prediction. Adjust paths and credentials for your specific use case.
+This README outlines the project setup and the key sections for executing my solution, including data preprocessing, model training, evaluation, and prediction. Adjust paths and credentials for specific use case.
