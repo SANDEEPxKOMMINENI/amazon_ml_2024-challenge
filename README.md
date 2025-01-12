@@ -1,4 +1,4 @@
-README template for my Amazon ML Challenge 2024 GitHub project:
+
 
 ---
 
